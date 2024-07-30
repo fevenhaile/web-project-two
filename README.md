@@ -11,7 +11,9 @@ Features Add items to the list of things to accomplish. Take items off the list 
 Instruction 1.Navigate to index.html in your web browser.
 
 INCLUDE TASK: Click Add after entering your task in the input window. The job with the Edit and Remove buttons will show up below.
-![photo_5_2024-07-30_15-46-11](https://github.com/user-attachments/assets/c8a62633-8891-447e-8d07-1ecd05159d15)
+
+![photo_3_2024-07-30_15-46-11](https://github.com/user-attachments/assets/2c0cb801-b5dd-4d9c-a418-bc3e4e2fcf73)
+
 
 
 
