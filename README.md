@@ -1,5 +1,6 @@
 # web-project-two
-![photo_4_2024-07-30_15-46-11](https://github.com/user-attachments/assets/a030bf5f-86ba-4cf3-a933-542d45066f46)
+![photo_1_2024-07-30_15-46-11](https://github.com/user-attachments/assets/b34a481c-8b7d-4d8c-bc38-1774a2c7d861)
+
 
 
 
