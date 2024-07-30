@@ -24,7 +24,8 @@ MODIFY AN ASSIGNMENT: Next to a task, click Edit, make changes, and save.
 Editing the "watching a movie" task to "reading a book"
 
 
-![photo_2_2024-07-30_15-46-11](https://github.com/user-attachments/assets/af9892b4-9caa-4b20-acbf-590617d000b8)
+
+![photo_5_2024-07-30_15-46-11](https://github.com/user-attachments/assets/cdcac196-6dfb-46af-9496-8298446aadfd)
 Adding another 2 tasks "making cake" and "hiking".
 
 ELIMINATE A TASK: To remove the job, click Remove. 
