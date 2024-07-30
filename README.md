@@ -18,7 +18,9 @@ INCLUDE TASK: Click Add after entering your task in the input window. The job wi
 
 
 MODIFY AN ASSIGNMENT: Next to a task, click Edit, make changes, and save. 
-![photo_1_2024-07-30_15-46-11](https://github.com/user-attachments/assets/cea8ba84-563c-4d33-b847-87a1d84150b0)
+
+![photo_4_2024-07-30_15-46-11](https://github.com/user-attachments/assets/0aa84267-4ff4-4294-9f9c-e56e0baa8a03)
+
 Editing the "watching a movie" task to "reading a book"
 
 
