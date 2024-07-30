@@ -30,5 +30,5 @@ Adding another 2 tasks "making cake" and "hiking".
 
 ELIMINATE A TASK: To remove the job, click Remove. 
 
-![photo_4_2024-07-30_15-46-11](https://github.com/user-attachments/assets/6f3b93da-3e27-4d53-a681-75cc79ee88aa)
+![photo_6_2024-07-30_15-46-11](https://github.com/user-attachments/assets/205261a6-20fa-4ba6-9a62-171200d9e41b)
 by clicking the remove buttton of hiking now our available task are only "reading a book" and "making cake".
